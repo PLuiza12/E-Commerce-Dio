@@ -1,4 +1,4 @@
-# **Refinando um Projeto Conceitual de Banco de Dados - E-Commmerce** 
+# **Refinando um Projeto Conceitual de Banco de Dados - E-Commerce** 
 
 ## Objetivo:
 Refinar o modelo apresentado acrescentando os seguintes pontos:
